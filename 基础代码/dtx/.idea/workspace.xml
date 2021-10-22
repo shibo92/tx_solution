@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba465ef8-b15a-4b62-b031-292f7637fad4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dtx" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.3.9-bin/conf" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.3.9-bin\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zUB9mYGc90UauR4oVGM8dgkYbw" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>AccessibilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Angular</id>
+          </State>
+          <State>
+            <id>Ant</id>
+          </State>
+          <State>
+            <id>ArquillianJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
+            <id>Assignment issuesJava</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bidirectional TextInternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>CDI (Contexts and Dependency Injection)</id>
+          </State>
+          <State>
+            <id>CFML</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Chrome OSCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>CollectionsScala</id>
+          </State>
+          <State>
+            <id>ComparingCollectionsScala</id>
+          </State>
+          <State>
+            <id>Concurrency annotation issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flowGroovy</id>
+          </State>
+          <State>
+            <id>Data flowJava</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>FlexUnit</id>
+          </State>
+          <State>
+            <id>FreeMarker</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralScala</id>
+          </State>
+          <State>
+            <id>Google App Engine</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Guice</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>IndicesCollectionsScala</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JBoss Seam</id>
+          </State>
+          <State>
+            <id>JPA</id>
+          </State>
+          <State>
+            <id>JSF annotated elements errors</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Kotlin Android</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>LintLintAndroid</id>
+          </State>
+          <State>
+            <id>LoggingJava</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>MapsCollectionsScala</id>
+          </State>
+          <State>
+            <id>Markdown</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>MemoryJava</id>
+          </State>
+          <State>
+            <id>MessagesCorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Method signatureScala</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsGroovy</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Naming conventionsKotlin</id>
+          </State>
+          <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>OtherCollectionsScala</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Pattern Validation</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>PortabilityJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsCoffeeScript</id>
+          </State>
+          <State>
+            <id>Probable bugsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Reactor</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective accessJava</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>RoomAndroid</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>Scala: General</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Simplifications: otherCollectionsScala</id>
+          </State>
+          <State>
+            <id>SizeCollectionsScala</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Spring MVCSpring</id>
+          </State>
+          <State>
+            <id>Spring OSGiSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Syntactic SimplificationScala</id>
+          </State>
+          <State>
+            <id>Tapestry</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Thymeleaf</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>TypographyUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Velocity</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565780977352" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../daojia/gtr/seo/seo-web" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.302994" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.dtx.notifymsg.pay.entity" />
+      <recent name="cn.itcast.dtx.notifymsg.pay" />
+      <recent name="cn.itcast.dtx.notifydemo.bank1.model" />
+      <recent name="cn.itcast.dtx.notifydemo.bank1.message" />
+      <recent name="cn.itcast.dtx.notifydemo.bank2.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\private\share\基础代码\dtx-seata-demo\dtx-seata-demo-bank2\src\main\resources" />
+      <recent name="D:\WorkSpace\private\share\基础代码\dtx-seata-demo\dtx-seata-demo-bank2\src\main\java\cn\itcast\seatademo\bank2\service" />
+      <recent name="D:\WorkSpace\private\share\基础代码\dtx-seata-demo\dtx-seata-demo-bank2\src\main\java\cn\itcast\seatademo\bank2\controller" />
+      <recent name="D:\WorkSpace\private\share\基础代码\dtx-seata-demo\dtx-seata-demo-bank1\src\main\java\cn\itcast\dtx\seatademo\bank1\feign" />
+      <recent name="D:\WorkSpace\private\share\基础代码\dtx-txmsg-demo\dtx-txmsg-demo-bank2\src\main\java\cn\itcast\dtx\txmsgdemo\bank2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Bank1TccServer">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank1Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dtx-seata-demo-bank1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.seatademo.bank1.Bank1Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank1TccServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dtx-tcc-demo-bank1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.dtx.tccdemo.bank1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.tccdemo.bank1.Bank1TccServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank2Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dtx-seata-demo-bank2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.seatademo.bank2.Bank2Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="discover-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.discoverserver.DiscoveryServer" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxMsgBank1Service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dtx-txmsg-demo-bank1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.dtx.txmsgdemo.bank1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.txmsgdemo.bank1.TxMsgBank1Service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TxMsgBank2Service" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dtx-txmsg-demo-bank2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.dtx.txmsgdemo.bank2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.dtx.txmsgdemo.bank2.TxMsgBank2Service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Bank2Server" />
+      <item itemvalue="Spring Boot.Bank1Server" />
+      <item itemvalue="Spring Boot.DiscoveryServer" />
+      <item itemvalue="Spring Boot.TxMsgBank1Service" />
+      <item itemvalue="Spring Boot.TxMsgBank2Service" />
+      <item itemvalue="Spring Boot.Bank1TccServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Bank1TccServer" />
+        <item itemvalue="Spring Boot.TxMsgBank2Service" />
+        <item itemvalue="Spring Boot.TxMsgBank1Service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba465ef8-b15a-4b62-b031-292f7637fad4" name="Default Changelist" comment="" />
+      <created>1565331509939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565331509939</updated>
+      <workItem from="1565331512402" duration="8412000" />
+      <workItem from="1565478440250" duration="70359000" />
+      <workItem from="1565656416869" duration="22432000" />
+      <workItem from="1565779828757" duration="1142000" />
+      <workItem from="1634192639463" duration="416000" />
+      <workItem from="1634193430068" duration="81000" />
+      <workItem from="1634193526494" duration="6638000" />
+      <workItem from="1634203672915" duration="6717000" />
+      <workItem from="1634524184353" duration="109000" />
+      <workItem from="1634524650592" duration="16848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1634899402381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634899402381" />
+    <state x="582" y="201" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1634193834493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="582" y="201" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634193834493" />
+    <state x="863" y="453" key="#debugger.expression.dialog" timestamp="1634205380594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="863" y="453" key="#debugger.expression.dialog/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634205380594" />
+    <state width="429" height="466" key="DebuggerActiveHint" timestamp="1634206976710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="429" height="466" key="DebuggerActiveHint/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634206976710" />
+    <state x="740" y="278" width="440" height="611" key="FileChooserDialogImpl" timestamp="1634540120693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" width="440" height="611" key="FileChooserDialogImpl/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634540120693" />
+    <state width="1877" height="259" key="GridCell.Tab.0.bottom" timestamp="1634900127372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127372" />
+    <state width="1877" height="259" key="GridCell.Tab.0.center" timestamp="1634900127372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127372" />
+    <state width="1877" height="259" key="GridCell.Tab.0.left" timestamp="1634900127372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127372" />
+    <state width="1877" height="259" key="GridCell.Tab.0.right" timestamp="1634900127372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127372" />
+    <state width="1877" height="259" key="GridCell.Tab.1.bottom" timestamp="1634900127187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127187" />
+    <state width="1877" height="259" key="GridCell.Tab.1.center" timestamp="1634900127186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127186" />
+    <state width="1877" height="259" key="GridCell.Tab.1.left" timestamp="1634900127186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127186" />
+    <state width="1877" height="259" key="GridCell.Tab.1.right" timestamp="1634900127186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127186" />
+    <state width="1877" height="259" key="GridCell.Tab.2.bottom" timestamp="1634900127187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127187" />
+    <state width="1877" height="259" key="GridCell.Tab.2.center" timestamp="1634900127187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.2.center/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127187" />
+    <state width="1877" height="259" key="GridCell.Tab.2.left" timestamp="1634900127187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.2.left/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127187" />
+    <state width="1877" height="259" key="GridCell.Tab.2.right" timestamp="1634900127187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="259" key="GridCell.Tab.2.right/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634900127187" />
+    <state x="600" y="223" key="NewModule_or_Project.wizard" timestamp="1634526905712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634526905712" />
+    <state x="440" y="97" key="SettingsEditor" timestamp="1634527046520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="SettingsEditor/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634527046520" />
+    <state x="444" y="112" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1634196830294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="444" y="112" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634196830294" />
+    <state x="624" y="275" width="983" height="490" key="find.popup" timestamp="1634899933598">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="275" width="983" height="490" key="find.popup/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634899933598" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1634787098602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1366.181.1366.728@0.0.1920.1040" timestamp="1634787098602" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/message/TxmsgConsumer.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-txmsg-demo/dtx-txmsg-demo-bank2/src/main/java/cn/itcast/dtx/txmsgdemo/bank2/service/AccountInfoServiceImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/controller/AccountPayController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-pay/src/main/java/cn/itcast/dtx/notifymsg/pay/service/AccountPayServiceImpl.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dtx-notifymsg-demo/dtx-notifymsg-demo-bank1/src/main/java/cn/itcast/dtx/notifydemo/bank1/controller/AccountInfoController.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../dtx-tcc-demo/dtx-tcc-demo-bank1/src/main/java/cn/itcast/dtx/tccdemo/bank1/service/impl/AccountInfoServiceImpl.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

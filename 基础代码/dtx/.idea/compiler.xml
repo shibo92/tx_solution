@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dtx-notifymsg-demo" />
+        <module name="dtx-notifymsg-demo-bank2" />
+        <module name="dtx-seata-demo" />
+        <module name="dtx-tcc-demo-bank1" />
+        <module name="dtx-txmsg-demo" />
+        <module name="discover-server" />
+        <module name="dtx-seata-demo-bank2" />
+        <module name="dtx-tcc-demo-bank2" />
+        <module name="dtx-txmsg-demo-bank1" />
+        <module name="dtx-notifymsg-demo-pay" />
+        <module name="dtx-seata-demo-bank1" />
+        <module name="dtx-txmsg-demo-bank2" />
+        <module name="dtx-tcc-demo" />
+        <module name="dtx-notifymsg-demo-bank1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="discover-server" target="8" />
+      <module name="dtx" target="8" />
+      <module name="dtx-notifymsg-demo" target="8" />
+      <module name="dtx-notifymsg-demo-bank1" target="8" />
+      <module name="dtx-notifymsg-demo-bank2" target="8" />
+      <module name="dtx-notifymsg-demo-pay" target="8" />
+      <module name="dtx-seata-demo" target="8" />
+      <module name="dtx-seata-demo-bank1" target="8" />
+      <module name="dtx-seata-demo-bank2" target="8" />
+      <module name="dtx-tcc-demo" target="8" />
+      <module name="dtx-tcc-demo-bank1" target="8" />
+      <module name="dtx-tcc-demo-bank2" target="8" />
+      <module name="dtx-txmsg-demo" target="8" />
+      <module name="dtx-txmsg-demo-bank1" target="8" />
+      <module name="dtx-txmsg-demo-bank2" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
